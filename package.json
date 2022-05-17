@@ -1,0 +1,15 @@
+{
+  "name": "game-room",
+  "version": "1.0.0",
+  "description": "An app for playing simpler tabletop games - cards, dominoes, etc - with people",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "games"
+  ],
+  "author": "Rollo Tierney",
+  "license": "MIT"
+}
