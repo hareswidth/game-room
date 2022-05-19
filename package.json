@@ -4,12 +4,16 @@
   "description": "An app for playing simpler tabletop games - cards, dominoes, etc - with people",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest src --watch"
   },
   "keywords": [
     "nodejs",
     "games"
   ],
   "author": "Rollo Tierney",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "prettier": "^2.6.2"
+  }
 }
